@@ -1,13 +1,6 @@
+<img align="right" alt="Coding" width="500" src="https://media.istockphoto.com/id/1137735902/vector/software-development-programming-laptop.jpg?s=612x612&w=0&k=20&c=0JmLIfnuHrmkJRhfjVq3ZSqpvqFuAVQ9-k93Su9nGTk=">
 <h1 align="center">Hi 👋, I'm Dhairya Hindoriya</h1>
 <h3 align="center">A passionate AIML and Data Scientist from India</h3>
-<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/cad6d25d7e859f91d586bc08b93d0680/6138c75039bd424c-a7/s540x810/3cb85df6755edb3d2e8bd7601372a57c189b0c34.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=djdhairya&label=Profile%20views&color=0e75b6&style=flat" alt="djdhairya" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=djdhairya" alt="djdhairya" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🔭 I’m currently working on **Gemini AI**
 
 - 🌱 I’m currently learning **LLM ,Langchain,CNN**
@@ -17,6 +10,13 @@
 - 📫 How to reach me **hindoriyadhairya@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
+<img align="right" alt="Coding"  src="https://64.media.tumblr.com/cad6d25d7e859f91d586bc08b93d0680/6138c75039bd424c-a7/s540x810/3cb85df6755edb3d2e8bd7601372a57c189b0c34.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=djdhairya&label=Profile%20views&color=0e75b6&style=flat" alt="djdhairya" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=djdhairya" alt="djdhairya" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
