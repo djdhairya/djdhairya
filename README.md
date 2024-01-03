@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhairya Hindoriya</h1>
 <h3 align="center">A passionate AIML and Data Scientist from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/9792d43627b178fd4a45bcabb3647d7b34a62d64baf96a19abf6ea19d5cea8dd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
+<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/cad6d25d7e859f91d586bc08b93d0680/6138c75039bd424c-a7/s540x810/3cb85df6755edb3d2e8bd7601372a57c189b0c34.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=djdhairya&label=Profile%20views&color=0e75b6&style=flat" alt="djdhairya" /> </p>
 
