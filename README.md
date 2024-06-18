@@ -1,9 +1,9 @@
 <img align="right" alt="Coding" width="500" src="https://media.istockphoto.com/id/1137735902/vector/software-development-programming-laptop.jpg?s=612x612&w=0&k=20&c=0JmLIfnuHrmkJRhfjVq3ZSqpvqFuAVQ9-k93Su9nGTk=">
 <h1 align="center">Hi 👋, I'm Dhairya Hindoriya</h1>
 <h3 align="center">A passionate AIML and Data Scientist from India</h3>
-- 🔭 I’m currently working on **Gemini AI**
+- 🔭 I’m currently working on **LLM**
 
-- 🌱 I’m currently learning **LLM ,Langchain,CNN**
+- 🌱 I’m currently learning **Generative AI**
 
 - 💬 Ask me about **AIML,Data Science,Deeplearning**
 
