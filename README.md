@@ -1,15 +1,14 @@
 <img align="right" alt="Coding" width="500" src="https://media.istockphoto.com/id/1137735902/vector/software-development-programming-laptop.jpg?s=612x612&w=0&k=20&c=0JmLIfnuHrmkJRhfjVq3ZSqpvqFuAVQ9-k93Su9nGTk=">
 <h1 align="center">Hi 👋, I'm Dhairya Hindoriya</h1>
 <h3 align="center">A passionate AIML and Data Scientist from India</h3>
-- 🔭 I’m currently working on **LLM**
+A diligent Computer Engineering student at MIT World Peace University, I am currently pursuing a Bachelor of Technology degree. My expertise lies in exploratory data analysis and I2C (Inter-Integrated Circuit), combined with hands-on experience in AI, machine learning, deep learning, and data science. I am proficient in a range of libraries, including TensorFlow, PyTorch, Scikit-learn, NumPy, and Pandas, which aid in the development and deployment of AI/ML models.
 
-- 🌱 I’m currently learning **Generative AI**
+I hold several IBM certifications, including the Applied AI Professional Certificate (V3), A Customized Large Language Model approach for Natural Language Query in Exploration and Production, Introduction to Artificial Intelligence (AI), and Chatbot Building Essentials. These certifications have enhanced my skills in artificial intelligence, natural language processing, and chatbot development.
 
-- 💬 Ask me about **AIML,Data Science,Deeplearning**
-
+As a Data Science Intern at Reliance Industries Limited, I applied my knowledge in a professional setting, working on real-world data science problems. With a strong academic foundation from St. Wilfred's School, Panvel, and Apeejay School, I am well-prepared to tackle complex challenges in computer engineering and data science.
 - 📫 How to reach me **hindoriyadhairya@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- How to reach me **www.linkedin.com/in/dhairya-hindoriya**
 <img align="right" alt="Coding"  src="https://64.media.tumblr.com/cad6d25d7e859f91d586bc08b93d0680/6138c75039bd424c-a7/s540x810/3cb85df6755edb3d2e8bd7601372a57c189b0c34.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=djdhairya&label=Profile%20views&color=0e75b6&style=flat" alt="djdhairya" /> </p>
