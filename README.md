@@ -1,7 +1,7 @@
 <img align="right" alt="Coding" width="500" src="https://media.istockphoto.com/id/1137735902/vector/software-development-programming-laptop.jpg?s=612x612&w=0&k=20&c=0JmLIfnuHrmkJRhfjVq3ZSqpvqFuAVQ9-k93Su9nGTk=">
 <h1 align="center">Hi 👋, I'm Dhairya Hindoriya</h1>
 <h3 align="center">A passionate AIML and Data Scientist from India</h3>
-A diligent Computer Engineering student at MIT World Peace University, I am currently pursuing a Bachelor of Technology degree. My expertise lies in exploratory data analysis and I2C (Inter-Integrated Circuit), combined with hands-on experience in AI, machine learning, deep learning, and data science. I am proficient in a range of libraries, including TensorFlow, PyTorch, Scikit-learn, NumPy, and Pandas, which aid in the development and deployment of AI/ML models.
+A diligent Computer Engineering student at MIT World Peace University, I am currently pursuing a Bachelor of Technology degree. My expertise lies in exploratory data analysis ,combined with hands-on experience in AI, machine learning, deep learning, and data science. I am proficient in a range of libraries, including TensorFlow, PyTorch, Scikit-learn, NumPy, and Pandas, which aid in the development and deployment of AI/ML models.
 
 I hold several IBM certifications, including the Applied AI Professional Certificate (V3), A Customized Large Language Model approach for Natural Language Query in Exploration and Production, Introduction to Artificial Intelligence (AI), and Chatbot Building Essentials. These certifications have enhanced my skills in artificial intelligence, natural language processing, and chatbot development.
 
